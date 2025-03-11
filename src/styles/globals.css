@@ -1,0 +1,135 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* animations */
+
+@keyframes scroll-left {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+@keyframes fade-in-left {
+  0% {
+    transform: translate3d(-100%, 0, 0);
+    opacity: 0;
+  }
+
+  80% {
+    opacity: 0.2;
+  }
+
+  100% {
+    transform: translate3d(0%, 0, 0);
+    opacity: 1;
+  }
+}
+
+@media (min-width: 750px) {
+  .fade-in-left {
+    transform: translate3d(-100%, 0, 0);
+    opacity: 0;
+    animation: fade-in-left 0.3s ease-in;
+    animation-fill-mode: forwards;
+    animation-delay: 0ms;
+  }
+
+  .fade-in-left.offset-1 {
+    animation-delay: 200ms;
+  }
+
+  .fade-in-left.offset-2 {
+    animation-delay: 400ms;
+  }
+}
+
+/* "skip to content"-link */
+
+.skip-to-content-link {
+  background: #fff;
+  color: #4a4a4a;
+  left: 50%;
+  top: -1px;
+  position: absolute;
+  transform: translateY(-100%);
+  display: flex;
+  padding: 0.5rem 2rem;
+  justify-content: center;
+  align-items: center;
+  z-index: 100;
+}
+
+.skip-to-content-link:focus {
+  transform: translateY(0%);
+}
+
+/* technology logo carousel */
+
+.technologies {
+  overflow: hidden;
+}
+
+.technologies .subtitle {
+  margin: 3rem 0 2rem 0;
+  font-size: 1.5rem;
+}
+
+@media screen and (min-width: 750px) {
+  .technologies .logo-carousel {
+    height: 5rem;
+    margin: 1rem auto;
+  }
+
+  .technologies .logo-carousel .logo-carousel__inner {
+    display: block;
+    width: 200%;
+    animation: scroll-left 40s linear infinite;
+    animation-fill-mode: forwards;
+  }
+
+  .technologies .logo-carousel .logo-carousel__inner:hover {
+    animation-play-state: paused;
+  }
+
+  .technologies .logo-carousel .logo-carousel__inner .logo-carousel__item {
+    position: relative;
+    width: 4rem;
+    height: 4rem;
+    display: inline-block;
+    margin: 0 1rem;
+    transition: all 0.2s ease-out;
+  }
+
+  .technologies .logo-carousel .logo-carousel__inner .logo-carousel__item h4 {
+    position: absolute;
+    left: -5%;
+    z-index: 98;
+    opacity: 0;
+    height: 0;
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-top: 0.5rem;
+    text-align: center;
+    width: 100%;
+    transition: opacity 0.3s;
+  }
+
+  .technologies .logo-carousel .logo-carousel__inner .logo-carousel__item:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+  }
+
+  .technologies .logo-carousel .logo-carousel__inner .logo-carousel__item:hover h4 {
+    opacity: 1;
+    height: 100%;
+  }
+
+  .technologies .logo-carousel .logo-carousel__inner ul {
+    float: left;
+    width: 50%;
+  }
+}

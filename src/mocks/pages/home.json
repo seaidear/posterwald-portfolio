@@ -1,0 +1,1063 @@
+{
+  "site": {
+    "logo": {
+      "url": "https://www.datocms-assets.com/60761/1641478169-logo.svg",
+      "tags": [],
+      "customData": {}
+    },
+    "favicon": [
+      {
+        "attributes": {
+          "sizes": "16x16",
+          "type": "image/svg",
+          "rel": "icon",
+          "href": "https://www.datocms-assets.com/60761/1641478169-logo.svg?h=16&w=16"
+        },
+        "content": null,
+        "tag": "link"
+      },
+      {
+        "attributes": {
+          "sizes": "32x32",
+          "type": "image/svg",
+          "rel": "icon",
+          "href": "https://www.datocms-assets.com/60761/1641478169-logo.svg?h=32&w=32"
+        },
+        "content": null,
+        "tag": "link"
+      },
+      {
+        "attributes": {
+          "sizes": "96x96",
+          "type": "image/svg",
+          "rel": "icon",
+          "href": "https://www.datocms-assets.com/60761/1641478169-logo.svg?h=96&w=96"
+        },
+        "content": null,
+        "tag": "link"
+      },
+      {
+        "attributes": {
+          "sizes": "192x192",
+          "type": "image/svg",
+          "rel": "icon",
+          "href": "https://www.datocms-assets.com/60761/1641478169-logo.svg?h=192&w=192"
+        },
+        "content": null,
+        "tag": "link"
+      }
+    ]
+  },
+  "page": {
+    "seo": [
+      {
+        "tag": "title",
+        "content": "Senior Full-Stack Developer | Phillip Osterwald",
+        "attributes": null
+      },
+      {
+        "tag": "meta",
+        "content": null,
+        "attributes": { "property": "og:title", "content": "Senior Full-Stack Developer" }
+      },
+      {
+        "tag": "meta",
+        "content": null,
+        "attributes": { "name": "twitter:title", "content": "Senior Full-Stack Developer" }
+      },
+      {
+        "tag": "meta",
+        "content": null,
+        "attributes": {
+          "name": "description",
+          "content": "Phillip Osterwald is a Senior Full-Stack from Ludwigshafen, Germany. Creating web apps and websites using latest technologies like React & the MERN-Stack with passion!"
+        }
+      },
+      {
+        "tag": "meta",
+        "content": null,
+        "attributes": {
+          "property": "og:description",
+          "content": "Phillip Osterwald is a Senior Full-Stack from Ludwigshafen, Germany. Creating web apps and websites using latest technologies like React & the MERN-Stack with passion!"
+        }
+      },
+      {
+        "tag": "meta",
+        "content": null,
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Phillip Osterwald is a Senior Full-Stack from Ludwigshafen, Germany. Creating web apps and websites using latest technologies like React & the MERN-Stack with passion!"
+        }
+      },
+      {
+        "tag": "meta",
+        "content": null,
+        "attributes": {
+          "property": "og:image",
+          "content": ""
+        }
+      },
+      {
+        "tag": "meta",
+        "content": null,
+        "attributes": { "property": "og:image:width", "content": "1152" }
+      },
+      {
+        "tag": "meta",
+        "content": null,
+        "attributes": { "property": "og:image:height", "content": "773" }
+      },
+      {
+        "tag": "meta",
+        "content": null,
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://i.ibb.co/8qZqJpL/photo-2025-03-11-11-43-39.jpg"
+        }
+      },
+      {
+        "tag": "meta",
+        "content": null,
+        "attributes": { "property": "og:locale", "content": "en" }
+      },
+      {
+        "tag": "meta",
+        "content": null,
+        "attributes": { "property": "og:type", "content": "article" }
+      },
+      {
+        "tag": "meta",
+        "content": null,
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Phillip Osterwald | Senior Full-Stack Developer"
+        }
+      },
+      {
+        "tag": "meta",
+        "content": null,
+        "attributes": { "property": "article:modified_time", "content": "2022-01-31T16:46:50Z" }
+      },
+      {
+        "tag": "meta",
+        "content": null,
+        "attributes": { "name": "twitter:card", "content": "summary_large_image" }
+      },
+      {
+        "tag": "meta",
+        "content": null,
+        "attributes": { "name": "twitter:site", "content": "@Seaidear323" }
+      }
+    ],
+    "title": "Home",
+    "slug": "home",
+    "navbar": {
+      "socialMediaIcons": [
+        {
+          "id": "99884427",
+          "url": "mailto:seaidear323@gmail.com",
+          "name": "Email",
+          "reactIconIdentifier": "email",
+          "icon": { "url": "https://www.datocms-assets.com/60761/1641478157-icon_mail.svg" }
+        },
+        {
+          "id": "94031960",
+          "url": "https://twitter.com/Seaidear323",
+          "name": "Twitter",
+          "reactIconIdentifier": "twitter",
+          "icon": { "url": "https://www.datocms-assets.com/60761/1641478158-icon_twitter.svg" }
+        },
+        {
+          "id": "94031963",
+          "url": "https://github.com/seaidear",
+          "name": "GitHub",
+          "reactIconIdentifier": "github",
+          "icon": { "url": "https://www.datocms-assets.com/60761/1641478154-icon_github.svg" }
+        }
+      ],
+      "navigationLinks": [
+        { "id": "94458330", "isExternalLink": false, "title": "About", "url": "#about" },
+        { "id": "99902435", "isExternalLink": false, "title": "Blog", "url": "/blog" }
+      ],
+      "callToActions": [
+        {
+          "callToActions": [
+            {
+              "id": "94458334",
+              "icon": { "url": "https://www.datocms-assets.com/60761/1642415316-icon_view.svg" },
+              "ctaType": "primary",
+              "isExternalLink": false,
+              "linkUrl": "#portfolio",
+              "title": "Portfolio"
+            },
+            {
+              "id": "99902438",
+              "icon": null,
+              "ctaType": "secondary",
+              "isExternalLink": false,
+              "linkUrl": "#contact",
+              "title": "Contact"
+            }
+          ]
+        }
+      ]
+    },
+    "sections": [
+      {
+        "__typename": "HeroRecord",
+        "id": "94032829",
+        "heading": "Creating <span class=\"text-primary\">fresh & fast web apps and sites</span> with passion!",
+        "subHeading": "Senior Full-Stack Developer & Online-Marketing Expert from Ludwigshafen, Germany ",
+        "backgroundImage": {
+          "responsiveImage": {
+            "srcSet": "https://www.datocms-assets.com/60761/1641844787-bg.png?dpr=0.25 415w,https://www.datocms-assets.com/60761/1641844787-bg.png?dpr=0.5 831w,https://www.datocms-assets.com/60761/1641844787-bg.png?dpr=0.75 1246w,https://www.datocms-assets.com/60761/1641844787-bg.png 1662w",
+            "webpSrcSet": "https://www.datocms-assets.com/60761/1641844787-bg.png?dpr=0.25&fm=webp 415w,https://www.datocms-assets.com/60761/1641844787-bg.png?dpr=0.5&fm=webp 831w,https://www.datocms-assets.com/60761/1641844787-bg.png?dpr=0.75&fm=webp 1246w,https://www.datocms-assets.com/60761/1641844787-bg.png?fm=webp 1662w",
+            "sizes": "(max-width: 1662px) 100vw, 1662px",
+            "src": "https://www.datocms-assets.com/60761/1641844787-bg.png",
+            "width": 1662,
+            "height": 1054,
+            "aspectRatio": 1.5768500948766604,
+            "alt": "Phillip Osterwald",
+            "title": "Phillip Osterwald",
+            "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoLDhgVDhUVDhcVFhESIx0ZGBYfIhUaHysjGikoHSEWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OFxAQHDsoIhw7NS8vLzs7LzsvLzUvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA8AGAMBIgACEQEDEQH/xAAXAAADAQAAAAAAAAAAAAAAAAAABAYF/8QAHRAAAQQDAQEAAAAAAAAAAAAAAQACAyEEBRJBEf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAXEQEBAQEAAAAAAAAAAAAAAAARAAIB/9oADAMBAAIRAxEAPwCQ1X0eJ3OmMcRpMYWG1ppN5OvZJHaxUelFt2HcxbyaQtyTURMeSAEIkjq//9k="
+          },
+          "url": "https://www.datocms-assets.com/60761/1641844787-bg.png"
+        },
+        "callToActions": [
+          {
+            "callToActions": [
+              {
+                "id": "94032826",
+                "icon": { "url": "https://www.datocms-assets.com/60761/1642415316-icon_view.svg" },
+                "ctaType": "primary",
+                "isExternalLink": false,
+                "linkUrl": "#portfolio",
+                "title": "View My Work"
+              },
+              {
+                "id": "94032827",
+                "icon": { "url": "https://www.datocms-assets.com/60761/1641478157-icon_mail.svg" },
+                "ctaType": "secondary",
+                "isExternalLink": false,
+                "linkUrl": "#contact",
+                "title": "Get In Touch"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__typename": "SectionRecord",
+        "id": "94033112",
+        "heading": "About Me",
+        "htmlId": "about",
+        "description": "",
+        "dynamicContent": [
+          {
+            "__typename": "TextWithImageRecord",
+            "id": "94033111",
+            "text": "I'm an experienced full-stack developer with a strong foundation in front-end technologies and a deep understanding of back-end systems. On top of that, I have a solid background in online marketing, allowing me to build high-performing, user-friendly, and well-optimized web applications.\n\nI’m passionate about creating sleek, efficient, and scalable digital solutions. Constantly learning and experimenting with new technologies, I strive to stay at the forefront of the industry.\n\nBeyond coding, I’m an avid gamer and enjoy exploring nature through trekking. And if you're up for a good conversation, I'm always down for a beer.",
+            "image": {
+              "responsiveImage": {
+                "srcSet": "https://www.datocms-assets.com/60761/1641478172-profile.png?dpr=0.25 115w,https://www.datocms-assets.com/60761/1641478172-profile.png?dpr=0.5 230w,https://www.datocms-assets.com/60761/1641478172-profile.png?dpr=0.75 345w,https://www.datocms-assets.com/60761/1641478172-profile.png 460w",
+                "webpSrcSet": "https://www.datocms-assets.com/60761/1641478172-profile.png?dpr=0.25&fm=webp 115w,https://www.datocms-assets.com/60761/1641478172-profile.png?dpr=0.5&fm=webp 230w,https://www.datocms-assets.com/60761/1641478172-profile.png?dpr=0.75&fm=webp 345w,https://www.datocms-assets.com/60761/1641478172-profile.png?fm=webp 460w",
+                "sizes": "(max-width: 460px) 100vw, 460px",
+                "src": "https://www.datocms-assets.com/60761/1641478172-profile.png",
+                "width": 460,
+                "height": 460,
+                "aspectRatio": 1,
+                "alt": "Phillip Osterwald",
+                "title": "Phillip Osterwald",
+                "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoQEAgVDg0JDhUODQ0NFREODQ0YFx8lGCIVFhUmHysjGh0oHRUiJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHC8lIig7Oy8vLy8vLy8vLy8vOzsvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABgAGAMBIgACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABQYEAf/EAB4QAAICAgMBAQAAAAAAAAAAAAABAgMEBSExQXER/8QAFwEBAQEBAAAAAAAAAAAAAAAABAUDAv/EABwRAAICAgMAAAAAAAAAAAAAAAECAAMREgQTIf/aAAwDAQACEQMRAD8Ard1anSyf18k8h/TTt879qfIp1WSpXd+hC+BGUU7ITK9TSgjgvsy1GHYGi+iEdcNiS24ymqnyZNHe5S79ADggayhxSesxxmZTjX2AAKqUayRyWIsn/9k="
+              },
+              "url": "https://www.datocms-assets.com/60761/1641478172-profile.png"
+            }
+          },
+          {
+            "__typename": "CtaContainerRecord",
+            "id": "94033110",
+            "callToActions": [
+              {
+                "id": "94033108",
+                "title": "View My Work",
+                "icon": { "url": "https://www.datocms-assets.com/60761/1642415316-icon_view.svg" },
+                "ctaType": "primary",
+                "isExternalLink": false,
+                "linkUrl": "#portfolio"
+              }
+            ]
+          },
+          {
+            "__typename": "LogoSliderRecord",
+            "id": "94033261",
+            "title": "Tools & Technologies I Use",
+            "logos": [
+              {
+                "id": "93840871",
+                "name": "HTML",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1642341254-html5.svg" }
+              },
+              {
+                "id": "93840874",
+                "name": "CSS",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1642341246-css3.svg" }
+              },
+              {
+                "id": "93840875",
+                "name": "Sass",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1642341261-sass.svg" }
+              },
+              {
+                "id": "93840880",
+                "name": "JavaScript (ES6+)",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1642341255-javascript.svg" }
+              },
+              {
+                "id": "97228619",
+                "name": "TypeScript",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1642343542-typescript.svg" }
+              },
+              {
+                "id": "93840896",
+                "name": "Node.js",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1642341257-node-dot-js.svg" }
+              },
+              {
+                "id": "93840881",
+                "name": "React",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1642341260-react.svg" }
+              },
+              {
+                "id": "93840893",
+                "name": "Redux",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1642341260-redux.svg" }
+              },
+              {
+                "id": "102449308",
+                "name": "GraphQL",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1643647501-graphql.svg" }
+              },
+              {
+                "id": "93840884",
+                "name": "Next.js",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1642341257-next-dot-js.svg" }
+              },
+              {
+                "id": "93840903",
+                "name": "Bootstrap",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1642341241-bootstrap.svg" }
+              },
+              {
+                "id": "93840902",
+                "name": "Webpack",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1642341263-webpack.svg" }
+              },
+              {
+                "id": "93840901",
+                "name": "Gulp",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1642341253-gulp.svg" }
+              },
+              {
+                "id": "93840899",
+                "name": "PHP",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1642341259-php.svg" }
+              },
+              {
+                "id": "93840927",
+                "name": "Git",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1642341250-git.svg" }
+              },
+              {
+                "id": "93840911",
+                "name": "GitHub",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1642341250-github.svg" }
+              },
+              {
+                "id": "93840912",
+                "name": "Docker",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1642341248-docker.svg" }
+              },
+              {
+                "id": "93840916",
+                "name": "Figma",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1642341248-figma.svg" }
+              },
+              {
+                "id": "93840917",
+                "name": "JIRA",
+                "logo": { "url": "https://www.datocms-assets.com/60761/1642341256-jira.svg" }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__typename": "SectionRecord",
+        "id": "94033339",
+        "heading": "Featured Personal Projects",
+        "htmlId": "portfolio",
+        "description": "Below you can find a selection of personal projects I've been working on recently. For these you can check out both the code and a live version of the project. If you're interested in my work you're welcome to check out the other public repositories [on my GitHub profile.](https://github.com/seaidear) Additionally, you can find an excerpt of my professional work [in the next section](#work-excerpts).",
+        "dynamicContent": [
+          {
+            "__typename": "ProjectGridRecord",
+            "id": "94050500",
+            "projects": [
+              {
+                "id": "94035308",
+                "title": "Vintage Poker",
+                "subTitle": "Poker Platform",
+                "description": "Vintage Poker is a poker platform built with the MERN-stack and Socket.io. The \"Styled Components\"-library was used to build a UI with a custom look & feel. Localized content (DE & EN) is being managed & loaded from the Headless-CMS Contentful.",
+                "projectType": "personal",
+                "liveLink": "https://www.vintagepoker.net/",
+                "repoLink": "https://github.com/seaidear/vintage-poker",
+                "showcaseImage": {
+                  "url": "https://www.datocms-assets.com/60761/1641478217-project_personal_vintagepoker.jpg",
+                  "responsiveImage": {
+                    "srcSet": "https://www.datocms-assets.com/60761/1641478217-project_personal_vintagepoker.jpg?dpr=0.25 320w,https://www.datocms-assets.com/60761/1641478217-project_personal_vintagepoker.jpg?dpr=0.5 640w,https://www.datocms-assets.com/60761/1641478217-project_personal_vintagepoker.jpg?dpr=0.75 960w,https://www.datocms-assets.com/60761/1641478217-project_personal_vintagepoker.jpg 1280w",
+                    "webpSrcSet": "https://www.datocms-assets.com/60761/1641478217-project_personal_vintagepoker.jpg?dpr=0.25&fm=webp 320w,https://www.datocms-assets.com/60761/1641478217-project_personal_vintagepoker.jpg?dpr=0.5&fm=webp 640w,https://www.datocms-assets.com/60761/1641478217-project_personal_vintagepoker.jpg?dpr=0.75&fm=webp 960w,https://www.datocms-assets.com/60761/1641478217-project_personal_vintagepoker.jpg?fm=webp 1280w",
+                    "sizes": "(max-width: 1280px) 100vw, 1280px",
+                    "src": "https://www.datocms-assets.com/60761/1641478217-project_personal_vintagepoker.jpg",
+                    "width": 1280,
+                    "height": 960,
+                    "aspectRatio": 1.3333333333333333,
+                    "alt": "Vintage Poker",
+                    "title": "Vintage Poker",
+                    "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHDQoTDw8LBwgNDQ0JBwkODRENDg4NFxMZGBYVFiEaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0NHRAPHS8dGhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABIAGAMBIgACEQEDEQH/xAAZAAADAAMAAAAAAAAAAAAAAAAAAwQBAgf/xAAYEAEBAQEBAAAAAAAAAAAAAAAAAwIBEf/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8A6bvfOM4txFS3rWe+srF1XbXOhLS3jBhpOjJgLSFXACD/2Q=="
+                  }
+                },
+                "projectLogo": {
+                  "url": "https://www.datocms-assets.com/60761/1642856910-vintage-poker-logo.png"
+                },
+                "technologiesUsed": [
+                  {
+                    "id": "93840871",
+                    "name": "HTML",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341254-html5.svg" }
+                  },
+                  {
+                    "id": "93840874",
+                    "name": "CSS",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341246-css3.svg" }
+                  },
+                  {
+                    "id": "93840880",
+                    "name": "JavaScript (ES6+)",
+                    "logo": {
+                      "url": "https://www.datocms-assets.com/60761/1642341255-javascript.svg"
+                    }
+                  },
+                  {
+                    "id": "93840881",
+                    "name": "React",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341260-react.svg" }
+                  },
+                  {
+                    "id": "93840896",
+                    "name": "Node.js",
+                    "logo": {
+                      "url": "https://www.datocms-assets.com/60761/1642341257-node-dot-js.svg"
+                    }
+                  },
+                  {
+                    "id": "93840902",
+                    "name": "Webpack",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341263-webpack.svg" }
+                  }
+                ]
+              },
+              {
+                "id": "94035323",
+                "title": "DevMeetup",
+                "subTitle": "Social Network",
+                "description": "A social network for developers built with the MERN-stack. Backend-API is set-up with Node.js and Express including authentication using JWT web tokens. The app uses Redux for client-side state management.",
+                "projectType": "personal",
+                "liveLink": "https://www.devmeetup.net/",
+                "repoLink": "https://github.com/seaidear/devmeetup",
+                "showcaseImage": {
+                  "url": "https://www.datocms-assets.com/60761/1641478184-project_personal_devmeetup.jpg",
+                  "responsiveImage": {
+                    "srcSet": "https://www.datocms-assets.com/60761/1641478184-project_personal_devmeetup.jpg?dpr=0.25 320w,https://www.datocms-assets.com/60761/1641478184-project_personal_devmeetup.jpg?dpr=0.5 640w,https://www.datocms-assets.com/60761/1641478184-project_personal_devmeetup.jpg?dpr=0.75 960w,https://www.datocms-assets.com/60761/1641478184-project_personal_devmeetup.jpg 1280w",
+                    "webpSrcSet": "https://www.datocms-assets.com/60761/1641478184-project_personal_devmeetup.jpg?dpr=0.25&fm=webp 320w,https://www.datocms-assets.com/60761/1641478184-project_personal_devmeetup.jpg?dpr=0.5&fm=webp 640w,https://www.datocms-assets.com/60761/1641478184-project_personal_devmeetup.jpg?dpr=0.75&fm=webp 960w,https://www.datocms-assets.com/60761/1641478184-project_personal_devmeetup.jpg?fm=webp 1280w",
+                    "sizes": "(max-width: 1280px) 100vw, 1280px",
+                    "src": "https://www.datocms-assets.com/60761/1641478184-project_personal_devmeetup.jpg",
+                    "width": 1280,
+                    "height": 960,
+                    "aspectRatio": 1.3333333333333333,
+                    "alt": "DevMeetup",
+                    "title": "DevMeetup",
+                    "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoSCAgLEBAVFhgNFQ0VDhIVDRANFxYdGBYVFh0eHyslGh0oHSEWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDsoIhw7Ly8vLzs7Ni8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABIAGAMBIgACEQEDEQH/xAAZAAADAAMAAAAAAAAAAAAAAAAABAUBAwb/xAAfEAACAQQCAwAAAAAAAAAAAAAAAQMCBBExBRITMpH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAwQFAP/EABkRAQEAAwEAAAAAAAAAAAAAAAEAAgMyEf/aAAwDAQACEQMRAD8A4qws8soS2DVAhxvJRZ2ipLyMbj2iNX21zEo8sXSoDRfX9Hd4ZkQMXEolu3nbH3VV4/Z/QA6enmQmbAAGVXb1f//Z"
+                  }
+                },
+                "projectLogo": {
+                  "url": "https://www.datocms-assets.com/60761/1642856902-devmeetup-logo.png"
+                },
+                "technologiesUsed": [
+                  {
+                    "id": "93840871",
+                    "name": "HTML",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341254-html5.svg" }
+                  },
+                  {
+                    "id": "93840874",
+                    "name": "CSS",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341246-css3.svg" }
+                  },
+                  {
+                    "id": "93840880",
+                    "name": "JavaScript (ES6+)",
+                    "logo": {
+                      "url": "https://www.datocms-assets.com/60761/1642341255-javascript.svg"
+                    }
+                  },
+                  {
+                    "id": "93840881",
+                    "name": "React",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341260-react.svg" }
+                  },
+                  {
+                    "id": "93840893",
+                    "name": "Redux",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341260-redux.svg" }
+                  },
+                  {
+                    "id": "93840896",
+                    "name": "Node.js",
+                    "logo": {
+                      "url": "https://www.datocms-assets.com/60761/1642341257-node-dot-js.svg"
+                    }
+                  },
+                  {
+                    "id": "93840902",
+                    "name": "Webpack",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341263-webpack.svg" }
+                  }
+                ]
+              },
+              {
+                "id": "94035334",
+                "title": "SimplySticky",
+                "subTitle": "Note-taking App",
+                "description": "SimplySticky is a full-CRUD Note-taking App build with React which is utilizing cloud functions to perform any of its backend functionality. Uses Netlify Identity as an external auth provider & Redux for internal state management.",
+                "projectType": "personal",
+                "liveLink": "",
+                "repoLink": "https://github.com/seaidear/simply-sticky",
+                "showcaseImage": {
+                  "url": "https://www.datocms-assets.com/60761/1641478258-simplysticky.png",
+                  "responsiveImage": {
+                    "srcSet": "https://www.datocms-assets.com/60761/1641478258-simplysticky.png?dpr=0.25 319w,https://www.datocms-assets.com/60761/1641478258-simplysticky.png?dpr=0.5 639w,https://www.datocms-assets.com/60761/1641478258-simplysticky.png?dpr=0.75 959w,https://www.datocms-assets.com/60761/1641478258-simplysticky.png 1279w",
+                    "webpSrcSet": "https://www.datocms-assets.com/60761/1641478258-simplysticky.png?dpr=0.25&fm=webp 319w,https://www.datocms-assets.com/60761/1641478258-simplysticky.png?dpr=0.5&fm=webp 639w,https://www.datocms-assets.com/60761/1641478258-simplysticky.png?dpr=0.75&fm=webp 959w,https://www.datocms-assets.com/60761/1641478258-simplysticky.png?fm=webp 1279w",
+                    "sizes": "(max-width: 1279px) 100vw, 1279px",
+                    "src": "https://www.datocms-assets.com/60761/1641478258-simplysticky.png",
+                    "width": 1279,
+                    "height": 959,
+                    "aspectRatio": 1.3336809176225235,
+                    "alt": "Simply Sticky",
+                    "title": "Simply Sticky",
+                    "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBw0HBhUODQ0NCg0IEw8JDQkNDRENCw4YFxUZGBYTFhUaHysjGh0oHRUiJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHC8cHSkvNS8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABIAGAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAAABQQHAQID/8QAGxABAAIDAQEAAAAAAAAAAAAAAAIDAREyEgT/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQD/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAIh/9oADAMBAAIRAxEAPwC47cbgWz6Mrc6gXyxuQpPO04XOQa258sqFHbM7uUQBmxRvoACxb//Z"
+                  }
+                },
+                "projectLogo": {
+                  "url": "https://www.datocms-assets.com/60761/1642856905-simplysticky-logo.png"
+                },
+                "technologiesUsed": [
+                  {
+                    "id": "93840871",
+                    "name": "HTML",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341254-html5.svg" }
+                  },
+                  {
+                    "id": "93840874",
+                    "name": "CSS",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341246-css3.svg" }
+                  },
+                  {
+                    "id": "93840880",
+                    "name": "JavaScript (ES6+)",
+                    "logo": {
+                      "url": "https://www.datocms-assets.com/60761/1642341255-javascript.svg"
+                    }
+                  },
+                  {
+                    "id": "93840881",
+                    "name": "React",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341260-react.svg" }
+                  },
+                  {
+                    "id": "93840893",
+                    "name": "Redux",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341260-redux.svg" }
+                  },
+                  {
+                    "id": "93840896",
+                    "name": "Node.js",
+                    "logo": {
+                      "url": "https://www.datocms-assets.com/60761/1642341257-node-dot-js.svg"
+                    }
+                  },
+                  {
+                    "id": "93840902",
+                    "name": "Webpack",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341263-webpack.svg" }
+                  }
+                ]
+              },
+              {
+                "id": "94035352",
+                "title": "Battleship!",
+                "subTitle": "Multiplayer Game",
+                "description": "A multiplayer variant of the famous game \"Battleship\" implemented with Node.js, Express & Socket.io. Notable features are a game lobby to create & join games, in-game chat & 2-player multiplayer.",
+                "projectType": "personal",
+                "liveLink": "",
+                "repoLink": "https://github.com/seaidear/battleship-websockets-game",
+                "showcaseImage": {
+                  "url": "https://www.datocms-assets.com/60761/1641478178-project_personal_battleship.jpg",
+                  "responsiveImage": {
+                    "srcSet": "https://www.datocms-assets.com/60761/1641478178-project_personal_battleship.jpg?dpr=0.25 320w,https://www.datocms-assets.com/60761/1641478178-project_personal_battleship.jpg?dpr=0.5 640w,https://www.datocms-assets.com/60761/1641478178-project_personal_battleship.jpg?dpr=0.75 960w,https://www.datocms-assets.com/60761/1641478178-project_personal_battleship.jpg 1280w",
+                    "webpSrcSet": "https://www.datocms-assets.com/60761/1641478178-project_personal_battleship.jpg?dpr=0.25&fm=webp 320w,https://www.datocms-assets.com/60761/1641478178-project_personal_battleship.jpg?dpr=0.5&fm=webp 640w,https://www.datocms-assets.com/60761/1641478178-project_personal_battleship.jpg?dpr=0.75&fm=webp 960w,https://www.datocms-assets.com/60761/1641478178-project_personal_battleship.jpg?fm=webp 1280w",
+                    "sizes": "(max-width: 1280px) 100vw, 1280px",
+                    "src": "https://www.datocms-assets.com/60761/1641478178-project_personal_battleship.jpg",
+                    "width": 1280,
+                    "height": 960,
+                    "aspectRatio": 1.3333333333333333,
+                    "alt": "Battleship!",
+                    "title": "Battleship!",
+                    "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoIEBITDQ4LDg8ODQ0NDRENDg0NFxoZGBYVFiEaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAPFS8dFigvNS8vLy8vLy8vLy8vLzUvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABIAGAMBIgACEQEDEQH/xAAYAAEBAAMAAAAAAAAAAAAAAAAABQIEBv/EACAQAAICAQMFAAAAAAAAAAAAAAABAgMEEhMzBREyYXH/xAAZAQABBQAAAAAAAAAAAAAAAAABAAIDBAX/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIRMgP/2gAMAwEAAhEDEQA/AJGbTpg2Sa5rd7FjqV8dpnOUWOWS37L7rDIiNRdrp1xBlj3KMEBJgw1eo8bI2JzP6ACiTz5LEfEACGH/2Q=="
+                  }
+                },
+                "projectLogo": {
+                  "url": "https://www.datocms-assets.com/60761/1642856908-battleship-logo.png"
+                },
+                "technologiesUsed": [
+                  {
+                    "id": "93840871",
+                    "name": "HTML",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341254-html5.svg" }
+                  },
+                  {
+                    "id": "93840874",
+                    "name": "CSS",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341246-css3.svg" }
+                  },
+                  {
+                    "id": "93840880",
+                    "name": "JavaScript (ES6+)",
+                    "logo": {
+                      "url": "https://www.datocms-assets.com/60761/1642341255-javascript.svg"
+                    }
+                  },
+                  {
+                    "id": "93840896",
+                    "name": "Node.js",
+                    "logo": {
+                      "url": "https://www.datocms-assets.com/60761/1642341257-node-dot-js.svg"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "94035358",
+                "title": "Flashcards",
+                "subTitle": "Productivity App",
+                "description": "This is a productivity app created using React Native. Users can create virtual decks of flashcards, build a library of questions and answers for a specific topic and challenge themselves by taking quizzes and documenting their learning progress.",
+                "projectType": "personal",
+                "liveLink": "",
+                "repoLink": "https://github.com/seaidear/mobile-flashcards",
+                "showcaseImage": {
+                  "url": "https://www.datocms-assets.com/60761/1641478203-project_personal_flashcards.jpg",
+                  "responsiveImage": {
+                    "srcSet": "https://www.datocms-assets.com/60761/1641478203-project_personal_flashcards.jpg?dpr=0.25 320w,https://www.datocms-assets.com/60761/1641478203-project_personal_flashcards.jpg?dpr=0.5 640w,https://www.datocms-assets.com/60761/1641478203-project_personal_flashcards.jpg?dpr=0.75 960w,https://www.datocms-assets.com/60761/1641478203-project_personal_flashcards.jpg 1280w",
+                    "webpSrcSet": "https://www.datocms-assets.com/60761/1641478203-project_personal_flashcards.jpg?dpr=0.25&fm=webp 320w,https://www.datocms-assets.com/60761/1641478203-project_personal_flashcards.jpg?dpr=0.5&fm=webp 640w,https://www.datocms-assets.com/60761/1641478203-project_personal_flashcards.jpg?dpr=0.75&fm=webp 960w,https://www.datocms-assets.com/60761/1641478203-project_personal_flashcards.jpg?fm=webp 1280w",
+                    "sizes": "(max-width: 1280px) 100vw, 1280px",
+                    "src": "https://www.datocms-assets.com/60761/1641478203-project_personal_flashcards.jpg",
+                    "width": 1280,
+                    "height": 960,
+                    "aspectRatio": 1.3333333333333333,
+                    "alt": "Flashcards",
+                    "title": "Flashcards",
+                    "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBhUOFBQLFhUNDQ4NDg4NEBESDg0NFxUZGBYTIhUaHyslGh0oHSEWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OExAQHC8cHSgyLy8vLy8vLy8vNS8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABIAGAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAAAAwQFBwH/xAAaEAADAQEBAQAAAAAAAAAAAAAAAgMEATER/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgEA/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oADAMBAAIRAxEAPwDYaWVeC11KJtNvghYt0TJNti84BA0Z3ANWYt6+C5gAhLudAAk//9k="
+                  }
+                },
+                "projectLogo": {
+                  "url": "https://www.datocms-assets.com/60761/1641478166-logo.png"
+                },
+                "technologiesUsed": [
+                  {
+                    "id": "93840880",
+                    "name": "JavaScript (ES6+)",
+                    "logo": {
+                      "url": "https://www.datocms-assets.com/60761/1642341255-javascript.svg"
+                    }
+                  },
+                  {
+                    "id": "93840874",
+                    "name": "CSS",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341246-css3.svg" }
+                  },
+                  {
+                    "id": "99869012",
+                    "name": "React Native",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341260-react.svg" }
+                  }
+                ]
+              },
+              {
+                "id": "94035412",
+                "title": "Would you rather...?",
+                "subTitle": "Quiz App",
+                "description": "An implementation of the popular \"Would you rather...\"-game that uses React for the UI-part and Redux for state management. The \"backend\" is implemented as an in-client DB + fake API endpoints.",
+                "projectType": "personal",
+                "liveLink": "https://would-you-rather-2020.netlify.app/",
+                "repoLink": "https://github.com/seaidear/would-you-rather",
+                "showcaseImage": {
+                  "url": "https://www.datocms-assets.com/60761/1641478226-project_personal_wouldyourather.jpg",
+                  "responsiveImage": {
+                    "srcSet": "https://www.datocms-assets.com/60761/1641478226-project_personal_wouldyourather.jpg?dpr=0.25 320w,https://www.datocms-assets.com/60761/1641478226-project_personal_wouldyourather.jpg?dpr=0.5 640w,https://www.datocms-assets.com/60761/1641478226-project_personal_wouldyourather.jpg?dpr=0.75 960w,https://www.datocms-assets.com/60761/1641478226-project_personal_wouldyourather.jpg 1280w",
+                    "webpSrcSet": "https://www.datocms-assets.com/60761/1641478226-project_personal_wouldyourather.jpg?dpr=0.25&fm=webp 320w,https://www.datocms-assets.com/60761/1641478226-project_personal_wouldyourather.jpg?dpr=0.5&fm=webp 640w,https://www.datocms-assets.com/60761/1641478226-project_personal_wouldyourather.jpg?dpr=0.75&fm=webp 960w,https://www.datocms-assets.com/60761/1641478226-project_personal_wouldyourather.jpg?fm=webp 1280w",
+                    "sizes": "(max-width: 1280px) 100vw, 1280px",
+                    "src": "https://www.datocms-assets.com/60761/1641478226-project_personal_wouldyourather.jpg",
+                    "width": 1280,
+                    "height": 960,
+                    "aspectRatio": 1.3333333333333333,
+                    "alt": "Would you rather?",
+                    "title": "Would you rather?",
+                    "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBhITCAgVDxANDRgNDBYYDh0SDQwNFxUZGBYfFhUaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHQ0PHTscHRwvLy8vLy87Ly8vLy8vLy8vLy8vLy8vNS8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABIAGAMBIgACEQEDEQH/xAAZAAADAAMAAAAAAAAAAAAAAAAAAQMEBQf/xAAeEAACAgICAwAAAAAAAAAAAAAAAQMEAhEhMRJBUf/EABYBAAMAAAAAAAAAAAAAAAAAAAACA//EABoRAAICAwAAAAAAAAAAAAAAAAACARIRMUH/2gAMAwEAAhEDEQA/AOs2KfljwyEFF7M2WzHhj2ShuR+2NZsiVUlNQeuALy3I0uGMJaQqpqp29dkcG99gBTpEUrf0YALOwP/Z"
+                  }
+                },
+                "projectLogo": {
+                  "url": "https://www.datocms-assets.com/60761/1642856899-wouldyourather-logo.png"
+                },
+                "technologiesUsed": [
+                  {
+                    "id": "93840871",
+                    "name": "HTML",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341254-html5.svg" }
+                  },
+                  {
+                    "id": "93840874",
+                    "name": "CSS",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341246-css3.svg" }
+                  },
+                  {
+                    "id": "93840880",
+                    "name": "JavaScript (ES6+)",
+                    "logo": {
+                      "url": "https://www.datocms-assets.com/60761/1642341255-javascript.svg"
+                    }
+                  },
+                  {
+                    "id": "93840881",
+                    "name": "React",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341260-react.svg" }
+                  },
+                  {
+                    "id": "93840893",
+                    "name": "Redux",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341260-redux.svg" }
+                  },
+                  {
+                    "id": "93840903",
+                    "name": "Bootstrap",
+                    "logo": {
+                      "url": "https://www.datocms-assets.com/60761/1642341241-bootstrap.svg"
+                    }
+                  },
+                  {
+                    "id": "93840902",
+                    "name": "Webpack",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341263-webpack.svg" }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "__typename": "CtaContainerRecord",
+            "id": "94033338",
+            "callToActions": [
+              {
+                "id": "94033336",
+                "title": "Work Excerpts",
+                "icon": { "url": "https://www.datocms-assets.com/60761/1642415316-icon_view.svg" },
+                "ctaType": "primary",
+                "isExternalLink": false,
+                "linkUrl": "#work-excerpts"
+              },
+              {
+                "id": "94033337",
+                "title": "View More",
+                "icon": {
+                  "url": "https://www.datocms-assets.com/60761/1641478154-icon_github.svg"
+                },
+                "ctaType": "secondary",
+                "isExternalLink": true,
+                "linkUrl": "https://github.com/seaidear?tab=repositories"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__typename": "SectionRecord",
+        "id": "94033394",
+        "heading": "Professional Work Excerpts",
+        "htmlId": "work-excerpts",
+        "description": "In this section you can find some excerpts from my day-to-day professional work. Please note that the source for these projects is private due to confidentiality. ",
+        "dynamicContent": [
+          {
+            "__typename": "ProjectGridRecord",
+            "id": "94050511",
+            "projects": [
+              {
+                "id": "94035451",
+                "title": "Social Casino Website",
+                "subTitle": "Marketing Website",
+                "description": "An example of a landing page for a reknown social casino brand. A PHP template engine and a headless CMS in the backend help to avoid code duplication and make marketing content editable by anybody. Combined with a focus on best-in-class loading speed optimizations this gives us a cutting edge over any competitor.",
+                "projectType": "professional",
+                "liveLink": "https://www.gametwist.com/",
+                "repoLink": "",
+                "showcaseImage": {
+                  "url": "https://www.datocms-assets.com/60761/1641478239-project_work_lpgametwist.jpg",
+                  "responsiveImage": {
+                    "srcSet": "https://www.datocms-assets.com/60761/1641478239-project_work_lpgametwist.jpg?dpr=0.25 320w,https://www.datocms-assets.com/60761/1641478239-project_work_lpgametwist.jpg?dpr=0.5 640w,https://www.datocms-assets.com/60761/1641478239-project_work_lpgametwist.jpg?dpr=0.75 960w,https://www.datocms-assets.com/60761/1641478239-project_work_lpgametwist.jpg 1280w",
+                    "webpSrcSet": "https://www.datocms-assets.com/60761/1641478239-project_work_lpgametwist.jpg?dpr=0.25&fm=webp 320w,https://www.datocms-assets.com/60761/1641478239-project_work_lpgametwist.jpg?dpr=0.5&fm=webp 640w,https://www.datocms-assets.com/60761/1641478239-project_work_lpgametwist.jpg?dpr=0.75&fm=webp 960w,https://www.datocms-assets.com/60761/1641478239-project_work_lpgametwist.jpg?fm=webp 1280w",
+                    "sizes": "(max-width: 1280px) 100vw, 1280px",
+                    "src": "https://www.datocms-assets.com/60761/1641478239-project_work_lpgametwist.jpg",
+                    "width": 1280,
+                    "height": 960,
+                    "aspectRatio": 1.3333333333333333,
+                    "alt": "GameTwist Landingpage",
+                    "title": "GameTwist Landingpage",
+                    "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoIEwgVFg0VEhYOFhkWDh0NFh0PFxUZIhcTIhUmHysvHR0oJhUiJTUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDslIig7Oy8vLy87Ly8vLzYvOzs1NS8vLy8vNS8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABIAGAMBIgACEQEDEQH/xAAYAAEBAAMAAAAAAAAAAAAAAAAFAAEDBv/EAB4QAAEEAgMBAAAAAAAAAAAAAAABAgMEEjEFESET/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQT/xAAcEQACAgIDAAAAAAAAAAAAAAAAAgEDETEEEjL/2gAMAwEAAhEDEQA/AOKrxZPQbrw9RgNO23LY1HcajNm7kLmRlb4DOcg+kTkI18teYjV9IdTLKuIF2PPYGoqvexlirhsiJbsGdgvLKuSGSINPJUn/2Q=="
+                  }
+                },
+                "projectLogo": {
+                  "url": "https://www.datocms-assets.com/60761/1641484594-greentube-logo.jpg"
+                },
+                "technologiesUsed": [
+                  {
+                    "id": "93840871",
+                    "name": "HTML",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341254-html5.svg" }
+                  },
+                  {
+                    "id": "93840874",
+                    "name": "CSS",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341246-css3.svg" }
+                  },
+                  {
+                    "id": "93840880",
+                    "name": "JavaScript (ES6+)",
+                    "logo": {
+                      "url": "https://www.datocms-assets.com/60761/1642341255-javascript.svg"
+                    }
+                  },
+                  {
+                    "id": "93840899",
+                    "name": "PHP",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341259-php.svg" }
+                  },
+                  {
+                    "id": "93840875",
+                    "name": "Sass",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341261-sass.svg" }
+                  },
+                  {
+                    "id": "93840903",
+                    "name": "Bootstrap",
+                    "logo": {
+                      "url": "https://www.datocms-assets.com/60761/1642341241-bootstrap.svg"
+                    }
+                  },
+                  {
+                    "id": "93840901",
+                    "name": "Gulp",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341253-gulp.svg" }
+                  }
+                ]
+              },
+              {
+                "id": "94050365",
+                "title": " ETRON Help Center",
+                "subTitle": "Documentation Website / Wiki",
+                "description": "This documentation website was build from scratch using the React-Framework Next.js. All the content required for the Wiki is being pulled from an external data source (Headless CMS) and all of the wiki pages and routes are dynamically generated using this data. Further, I integrated Algolia Docsearch to provide our users with a user-friendly full-text search experience.",
+                "projectType": "professional",
+                "liveLink": "https://helpcenter.etron.de/",
+                "repoLink": "",
+                "showcaseImage": {
+                  "url": "https://www.datocms-assets.com/60761/1641485360-project_work_etronhelpcenter-c92b6bbd.webp",
+                  "responsiveImage": {
+                    "srcSet": "https://www.datocms-assets.com/60761/1641485360-project_work_etronhelpcenter-c92b6bbd.webp?dpr=0.25 271w,https://www.datocms-assets.com/60761/1641485360-project_work_etronhelpcenter-c92b6bbd.webp?dpr=0.5 543w,https://www.datocms-assets.com/60761/1641485360-project_work_etronhelpcenter-c92b6bbd.webp?dpr=0.75 815w,https://www.datocms-assets.com/60761/1641485360-project_work_etronhelpcenter-c92b6bbd.webp 1087w",
+                    "webpSrcSet": "https://www.datocms-assets.com/60761/1641485360-project_work_etronhelpcenter-c92b6bbd.webp?dpr=0.25&fm=webp 271w,https://www.datocms-assets.com/60761/1641485360-project_work_etronhelpcenter-c92b6bbd.webp?dpr=0.5&fm=webp 543w,https://www.datocms-assets.com/60761/1641485360-project_work_etronhelpcenter-c92b6bbd.webp?dpr=0.75&fm=webp 815w,https://www.datocms-assets.com/60761/1641485360-project_work_etronhelpcenter-c92b6bbd.webp?fm=webp 1087w",
+                    "sizes": "(max-width: 1087px) 100vw, 1087px",
+                    "src": "https://www.datocms-assets.com/60761/1641485360-project_work_etronhelpcenter-c92b6bbd.webp",
+                    "width": 1087,
+                    "height": 815,
+                    "aspectRatio": 1.3337423312883436,
+                    "alt": "ETRON Help Center",
+                    "title": "ETRON Help Center",
+                    "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBhUIEQgLChUXDhIWDhUNDikVFh0UFxYeHRwTIiQkJjcjJikoIhUiKjU2KjIvMjIyIi44STcwPCsxPi8BCgsLDg0OHBAQHDsoIiUvLzsvOzs7Ozs7LzsvNS81NTQyOzs7Lzs7Oy82Ly8vNTsvLy87Ly8vLy81Oy8vLzUvL//AABEIABIAGAMBIgACEQEDEQH/xAAZAAADAQEBAAAAAAAAAAAAAAAABQcCBAH/xAAfEAABBAICAwAAAAAAAAAAAAAAAQIDBBExBpEFITL/xAAYAQACAwAAAAAAAAAAAAAAAAACBAADBf/EAB4RAAIBBAMBAAAAAAAAAAAAAAABEQIEMZEUIUED/9oADAMBAAIRAxEAPwBLd4E6RNr0ZocBWN+cqpULKxNTSGqLYnrpDQd79G8itNuko72yb2uCue3HvoCrTV40bpDwrd5XOQeLT5O2I7qrg6PE7ABEdG1j5AAAZD//2Q=="
+                  }
+                },
+                "projectLogo": {
+                  "url": "https://www.datocms-assets.com/60761/1641484600-etron-logo.jpg"
+                },
+                "technologiesUsed": [
+                  {
+                    "id": "93840871",
+                    "name": "HTML",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341254-html5.svg" }
+                  },
+                  {
+                    "id": "93840874",
+                    "name": "CSS",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341246-css3.svg" }
+                  },
+                  {
+                    "id": "97228619",
+                    "name": "TypeScript",
+                    "logo": {
+                      "url": "https://www.datocms-assets.com/60761/1642343542-typescript.svg"
+                    }
+                  },
+                  {
+                    "id": "93840881",
+                    "name": "React",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341260-react.svg" }
+                  },
+                  {
+                    "id": "93840884",
+                    "name": "Next.js",
+                    "logo": {
+                      "url": "https://www.datocms-assets.com/60761/1642341257-next-dot-js.svg"
+                    }
+                  },
+                  {
+                    "id": "93840875",
+                    "name": "Sass",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341261-sass.svg" }
+                  },
+                  {
+                    "id": "93840903",
+                    "name": "Bootstrap",
+                    "logo": {
+                      "url": "https://www.datocms-assets.com/60761/1642341241-bootstrap.svg"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "94050377",
+                "title": "HamsterRat",
+                "subTitle": "Business Website",
+                "description": "I created this brochure website for my father who is running a consulting business. The main purpose of this site is to serve as a digital business card and FPOC for any potential clients. Optimizing keywords & other aspects related to SEO and optimizing loading speed were the most important considerations during the creation of this site.",
+                "projectType": "personal",
+                "liveLink": "https://hamsterrat.netlify.app/",
+                "repoLink": "",
+                "showcaseImage": {
+                  "url": "https://www.datocms-assets.com/60761/1641478233-project_work_hamsterrat.jpg",
+                  "responsiveImage": {
+                    "srcSet": "https://www.datocms-assets.com/60761/1641478233-project_work_hamsterrat.jpg?dpr=0.25 320w,https://www.datocms-assets.com/60761/1641478233-project_work_hamsterrat.jpg?dpr=0.5 640w,https://www.datocms-assets.com/60761/1641478233-project_work_hamsterrat.jpg?dpr=0.75 960w,https://www.datocms-assets.com/60761/1641478233-project_work_hamsterrat.jpg 1280w",
+                    "webpSrcSet": "https://www.datocms-assets.com/60761/1641478233-project_work_hamsterrat.jpg?dpr=0.25&fm=webp 320w,https://www.datocms-assets.com/60761/1641478233-project_work_hamsterrat.jpg?dpr=0.5&fm=webp 640w,https://www.datocms-assets.com/60761/1641478233-project_work_hamsterrat.jpg?dpr=0.75&fm=webp 960w,https://www.datocms-assets.com/60761/1641478233-project_work_hamsterrat.jpg?fm=webp 1280w",
+                    "sizes": "(max-width: 1280px) 100vw, 1280px",
+                    "src": "https://www.datocms-assets.com/60761/1641478233-project_work_hamsterrat.jpg",
+                    "width": 1280,
+                    "height": 960,
+                    "aspectRatio": 1.3333333333333333,
+                    "alt": "HamsterRat",
+                    "title": "HamsterRat",
+                    "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoXDhUcDg0YDiUVIRgjFxYfHSAWLi0mHysyKy40LyEfPDU9KC0yMj4+IiI4SU8wPCsxPi8BCgsLDg0OHBAQHDsoIig7NTs1OzsvOy87Oy81LzAvLy87NTUvLy8vLy8vLy8vLzU1Ly8vLy81Ly8vLy8vLy8vL//AABEIABIAGAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAAABAEGAwUH/8QAHxAAAgICAgMBAAAAAAAAAAAAAAECAwQFEVEhMTIG/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgEDAP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAhEhMRL/2gAMAwEAAhEDEQA/AGLN5Sn9IcxNnXbHlNHK9hXsW4uqbXZvtJkX10JWN88eTRxyyZ6ot2x2ldK5bQFJ/STyb8aUaZNSAUY2gyaTGLkujJjABESXSMv0SAHAZ//Z"
+                  }
+                },
+                "projectLogo": {
+                  "url": "https://www.datocms-assets.com/60761/1641484598-hamsterrat_icon.jpg"
+                },
+                "technologiesUsed": [
+                  {
+                    "id": "93840871",
+                    "name": "HTML",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341254-html5.svg" }
+                  },
+                  {
+                    "id": "93840874",
+                    "name": "CSS",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341246-css3.svg" }
+                  },
+                  {
+                    "id": "93840880",
+                    "name": "JavaScript (ES6+)",
+                    "logo": {
+                      "url": "https://www.datocms-assets.com/60761/1642341255-javascript.svg"
+                    }
+                  },
+                  {
+                    "id": "93840875",
+                    "name": "Sass",
+                    "logo": { "url": "https://www.datocms-assets.com/60761/1642341261-sass.svg" }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "__typename": "CtaContainerRecord",
+            "id": "94033393",
+            "callToActions": [
+              {
+                "id": "94033392",
+                "title": "Contact Me",
+                "icon": null,
+                "ctaType": "primary",
+                "isExternalLink": false,
+                "linkUrl": "#contact"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__typename": "ContactFormRecord",
+        "id": "95853834",
+        "heading": "Get In Touch",
+        "description": "Whether you are interested in hiring me, to work on a project together or to discuss any other proposal, feel free to contact me anytime. I am very much looking forward to your message!",
+        "ctaButtonText": "Send Message"
+      }
+    ],
+    "footer": {
+      "copyrightText": "Phillip Osterwald. All rights reserved.",
+      "navigationLinks": [
+        { "id": "94064251", "title": "/uses", "isExternalLink": false, "url": "/uses" },
+        { "id": "99902435", "title": "Blog", "isExternalLink": false, "url": "/blog" },
+        {
+          "id": "94064257",
+          "title": "Privacy Notice",
+          "isExternalLink": false,
+          "url": "/privacy-notice"
+        },
+        { "id": "94064259", "title": "Imprint", "isExternalLink": false, "url": "/imprint" }
+      ],
+      "socialMediaIcons": [
+        {
+          "id": "99884427",
+          "url": "mailto:seaidear323@gmail.com",
+          "name": "Email",
+          "reactIconIdentifier": "email",
+          "icon": { "url": "https://www.datocms-assets.com/60761/1641478157-icon_mail.svg" }
+        },
+        {
+          "id": "94031960",
+          "url": "https://twitter.com/Seaidear323",
+          "name": "Twitter",
+          "reactIconIdentifier": "twitter",
+          "icon": { "url": "https://www.datocms-assets.com/60761/1641478158-icon_twitter.svg" }
+        },
+        {
+          "id": "94031963",
+          "url": "https://github.com/seaidear",
+          "name": "GitHub",
+          "reactIconIdentifier": "github",
+          "icon": { "url": "https://www.datocms-assets.com/60761/1641478154-icon_github.svg" }
+        }
+      ]
+    }
+  }
+}

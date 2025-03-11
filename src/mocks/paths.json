@@ -1,0 +1,9 @@
+[
+  { "params": { "slug": "home" } },
+  { "params": { "slug": "uses" } },
+  { "params": { "slug": "privacy-notice" } },
+  { "params": { "slug": "imprint" } },
+  { "params": { "slug": "resume" } },
+  { "params": { "slug": "success" } },
+  { "params": { "slug": "blog" } }
+]

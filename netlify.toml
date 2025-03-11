@@ -1,0 +1,33 @@
+[build]
+  publish = "out/"
+  command = "yarn build:netlify"
+
+[[redirects]]
+  from = "http://p-osterwald.top/*"
+  to = "https://www.p-osterwald.top/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.p-osterwald.top/*"
+  to = "https://www.p-osterwald.top/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.p-osterwald.top/*"
+  to = "https://www.p-osterwald.top/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://p-osterwald.top/*"
+  to = "https://www.p-osterwald.top/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/admin"
+  to = "https://admin.p-osterwald.top"
+  status = 301
+  force = true
